@@ -1,0 +1,91 @@
+commit 2c65280dadac3604786c875d25532e0ab665fcc8
+Author: Eric Castellon <castellon3742@gmail.com>
+Date:   Thu Sep 4 13:22:24 2025 -0700
+
+    main: set favorite food to Sushi
+
+commit 178468b0a4ca30f36f748e217610a9a6d589b250
+Author: Eric Castellon <castellon3742@gmail.com>
+Date:   Thu Sep 4 13:13:48 2025 -0700
+
+    Changes Made
+
+commit b2b90d7f7779ceea83c801a6644cf36583b7e730
+Author: Eric Castellon <castellon3742@gmail.com>
+Date:   Thu Sep 4 13:11:03 2025 -0700
+
+    Changes Made
+
+commit 17f3256b830fc1931dde2da42bab4786f5c32380
+Author: Eric Castellon <castellon3742@gmail.com>
+Date:   Thu Sep 4 13:00:56 2025 -0700
+
+    Changes Made
+
+commit 8627e6c6622425ffdcf1abe69a3fe478af2b7345
+Author: Eric Castellon <castellon3742@gmail.com>
+Date:   Thu Sep 4 12:55:07 2025 -0700
+
+    Added favorite movie div in index-fix
+
+commit 7addb78eea028d2155bc3d1672791ba905e00f50
+Author: Eric Castellon <castellon3742@gmail.com>
+Date:   Thu Sep 4 12:53:21 2025 -0700
+
+    Added favorite food div in main
+
+commit 8da756e44a402f315e08abd1552bbea4e9a0c7ef
+Author: Eric Castellon <castellon3742@gmail.com>
+Date:   Thu Sep 4 13:20:48 2025 -0700
+
+    index-fix: changed favorite food to Something Else
+
+commit 0285e097a0b93a97264228bde5c1b235d6b4cc53
+Author: Eric Castellon <castellon3742@gmail.com>
+Date:   Thu Sep 4 13:13:48 2025 -0700
+
+    Changes Made
+
+commit 47439b348d088734245825b366c87083abda4417
+Author: Eric Castellon <castellon3742@gmail.com>
+Date:   Thu Sep 4 13:11:03 2025 -0700
+
+    Changes Made
+
+commit 044bb21a8f21668c2ef59e47dbd38a916dfa4f21
+Author: Eric Castellon <castellon3742@gmail.com>
+Date:   Thu Sep 4 13:00:56 2025 -0700
+
+    Changes Made
+
+commit 326699fbe27ed18b320a05e99b2c9f9fdc0c8c48
+Author: Eric Castellon <castellon3742@gmail.com>
+Date:   Thu Sep 4 12:55:07 2025 -0700
+
+    Added favorite movie div in index-fix
+
+commit 48438e1b08ed43d0b937a084d125e73ae56b7104
+Author: Eric Castellon <castellon3742@gmail.com>
+Date:   Thu Sep 4 12:53:21 2025 -0700
+
+    Added favorite food div in main
+
+commit 94c0022f73c221c876e7929e9f1c3814258b952f
+Author: Eric3871 <castellon3742@gmail.com>
+Date:   Thu Sep 4 12:50:07 2025 -0700
+
+    Create README.md
+    
+    Assignment 2
+
+commit 59a47d88f33b44dec1d62289513ad25e7237f92d
+Author: Eric Castellon <castellon3742@gmail.com>
+Date:   Thu Sep 4 12:41:28 2025 -0700
+
+    Filled in blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
